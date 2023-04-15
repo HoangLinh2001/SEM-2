@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<KHACH_SAN Ten="ABC" Dia_Chi="123 Nguyen Thi Thap,Q7,HCM">
+    <LOAI_PHONG Ten="Loại A" Don_gia="300000"/>
+    <LOAI_PHONG Ten="Loại B" Don_gia="250000"/>
+    <LOAI_PHONG Ten="Loại C" Don_gia="150000"/>
+    <LOAI_PHONG Ten="Loại VIP" Don_gia="500000"/>
+</KHACH_SAN>

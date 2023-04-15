@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<Students>
+    <Student>
+        <code>S113</code>
+        <name>Hưng</name>
+        <information>90</information>
+        <Mathematic>90</Mathematic>
+    </Student>
+    <Student>
+        <code>123</code>
+        <name>Nguyen</name>
+        <information>80</information>
+        <Mathematic>100</Mathematic>
+    </Student>
+</Students>

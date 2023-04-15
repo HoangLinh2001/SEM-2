@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!--<xs:element name="Product">
+    <xs:complexType>
+        <xs:attribute name="productID" type="xs:string"/>
+    </xs:complexType>
+    </xs:element>
+-->
+<!-- Only Element -->
+<!-- <xs:element name="Product">
+    <xs:complexType>
+        <xs:sequence>
+        <xs:element name = "Company" type = "xs:string" minOccurs="1" maxOccurs="unbounded"/>
+        <xs:element name = "Model" type = "xs:positiveInteger" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>-->
+
+<!-- ONLY TEXT-->
+
+<!--<xs:element name="Product">
+    <xs:complexType>
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+            <xs:attribute name="ProductID" type="xs:string"></xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:element>-->
+
+
+<xs:element name="Mail">
+    <xs:complexType>
+    <xs:sequence>
+    <xs:
+    </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema> 

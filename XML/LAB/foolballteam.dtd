@@ -1,0 +1,12 @@
+<!ELEMENT Team (Manager,Player*)>
+    <!ATTLIST Team name CDATA #REQUIRED>
+    <!ELEMENT Manager (Name,Age)>
+    <!ATTLIST Manager level CDATA #REQUIRED>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Age (#PCDATA)>
+    <!ELEMENT Player (Name,Position)>
+    <!ATTLIST Player 
+    number CDATA #REQUIRED
+    color CDATA #REQUIED>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Position (#PCDATA)>

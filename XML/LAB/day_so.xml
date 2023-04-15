@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DTD-->
+<!--22,3,4,-6,5,-7-->
+<NumberList>
+    <Number>
+        <Value>22</Value>
+        <Sign>+</Sign><!-- định dạng-->
+    </Number>
+    <Number>
+        <Value>3</Value>
+        <Sign>+</Sign>
+    </Number>
+    <Number>
+        <Value>4</Value>
+        <Sign>+</Sign>
+    </Number>
+    <Number>
+        <Value>6</Value>
+        <Sign>-</Sign>
+    </Number>
+    <Number>
+        <Value>5</Value>
+        <Sign>+</Sign>
+    </Number>
+    <Number>
+        <Value>7</Value>
+        <Sign>-</Sign>
+    </Number>
+</NumberList>

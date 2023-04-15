@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "collection.dtd">
+
+<collection>
+    <description></description>
+    <recipe>
+    <title>Eat clean</title>
+    <ingredient name="fruit">
+        <ingredient name="banana"></ingredient>
+        <preparation>
+        <step>go to market</step>
+        <step>buy banana</step>
+        </preparation>
+    </ingredient>
+    <preparation>
+        <step>peel banana</step>
+        <step>eat</step>
+    </preparation>
+    <comment>Do not eat peel banana</comment>
+    <nutrition protein="" carbohydrates="" fat="" calories=""/>
+</recipe>
+</collection>

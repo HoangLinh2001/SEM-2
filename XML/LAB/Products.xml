@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+<?xml-stylesheet href="Products.css" type="text/css"?>
+-->
+<?xml-stylesheet href="Products.xsl" type="text/xsl"?>
+<ProductList>
+    <Product>
+        <Code>P101</Code>
+        <Name>Iphone 14 Pro</Name>
+        <Manufacture>Apple</Manufacture>
+        <Quantity>50</Quantity>
+        <Price>1100</Price>
+    </Product>
+    <Product>
+        <Code>P102</Code>
+        <Name>Galaxy S22</Name>
+        <Manufacture>Sam sung</Manufacture>
+        <Quantity>25</Quantity>
+        <Price>1000</Price>
+    </Product>
+    <Product>
+        <Code>P103</Code>
+        <Name>Iphone 15 Pro Max</Name>
+        <Manufacture>Apple</Manufacture>
+        <Quantity>20</Quantity>
+        <Price>1150</Price>
+    </Product>
+    <Product>
+        <Code>P104</Code>
+        <Name>Nokia 3310</Name>
+        <Manufacture>Nokia</Manufacture>
+        <Quantity>2</Quantity>
+        <Price>30</Price>
+    </Product>
+    <Product>
+        <Code>P105</Code>
+        <Name>Iphone 13 Pro</Name>
+        <Manufacture>Apple</Manufacture>
+        <Quantity>22</Quantity>
+        <Price>850</Price>
+    </Product>
+</ProductList>

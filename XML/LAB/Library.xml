@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD -->
+<!DOCTYPE Library SYSTEM "library.dtd">
+<!-- Root Element -->
+<Library>
+    <Book>
+        <Name>Java</Name>
+        <Author>Trieu</Author>
+    </Book>
+    <Book>
+        <Name>C++</Name>
+        <Author>Messi</Author>
+    </Book>
+    <Book>
+        <Name>C</Name>
+        <Author>Thay Huan</Author>
+    </Book>
+</Library>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD -->
+<!DOCTYPE Team [
+    <!ELEMENT Team (Manager,Player*)>
+    <!ATTLIST Team name CDATA #REQUIRED>
+    <!ELEMENT Manager (Name,Age)>
+    <!ATTLIST Manager level CDATA #REQUIRED>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT Age (#PCDATA)>
+    <!ELEMENT Player (Name,Position)>
+    <!ATTLIST Player 
+    number CDATA #REQUIRED 
+    color CDATA #REQUIRED>
+    <!ELEMENT Position (#PCDATA)>
+]>
+<Team name="123">
+    <Manager level="medium">
+        <Name>Mikel Arteta</Name>
+        <Age>41</Age>
+    </Manager>
+
+    <Player number="7" color="black">
+        <Name>Saka</Name>
+        <Position>LWF</Position>
+    </Player>
+
+    <Player number="9" color="Brown">
+        <Name>Saka</Name>
+        <Position>CF</Position>
+    </Player>
+
+    <Player number="18" color="Yellow">
+        <Name>Tomiyasu</Name>
+        <Position>CB</Position>
+    </Player>
+</Team>

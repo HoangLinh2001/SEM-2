@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Internal DTD-->
+<!DOCTYPE Mobile [
+    <!ELEMENT Mobile (Company,Model,Price,Accessories+)>
+    <!ELEMENT Company (#PCDATA)>
+    <!ELEMENT Model (#PCDATA)>
+    <!ELEMENT Price (#PCDATA)>
+    <!ELEMENT Accessories (#PCDATA)>
+    <!ATTLIST Model Type CDATA "Camera"> <!-- thuộc tính mặc định -->
+    <!ENTITY HP "Head Phones"><!-- đặt biến cho các dữ liệu có thể thay đổi sau này -->
+    <!ENTITY CH "Charger">
+    <!ENTITY SK "Starters Kit">
+]>
+<!--Root Element-->
+<Mobile>
+<Company>Nokia</Company>
+<Model Type = "Videos">1280</Model>
+<Price>120.000</Price>
+<Accessories>&HP;, &CH;, &SK;</Accessories>
+</Mobile>

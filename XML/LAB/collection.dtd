@@ -1,0 +1,23 @@
+<!ELEMENT collection (description,recipe*)>
+<!ELEMENT description ANY> <!-- "Any" có thể có hoặc 0 có giá trị  -->
+<!ELEMENT recipe (title,ingredient*,preparation,comment?,nutrition)> 
+<!ELEMENT title (#PCDATA)> <!-- kiểu dữ liệu chuỗi -->
+<!ELEMENT ingredient (ingredient*,preparation)?> 
+<!ATTLIST ingredient 
+    name CDATA #REQUIRED 
+    amount CDATA #IMPLIED
+    unit CDATA #IMPLIED> 
+<!--
+"#REQUIRED" dữ liệu bắt buộc phải có
+#IMPLIED dữ liệu có hoặc không đều được
+-->
+<!ELEMENT preparation (step*)>
+<!ELEMENT step (#PCDATA)>
+<!ELEMENT comment (#PCDATA)>
+<!ELEMENT nutrition EMPTY>
+<!ATTLIST nutrition 
+    protein CDATA #REQUIRED 
+    carbohydrates CDATA #REQUIRED 
+    fat CDATA #REQUIRED 
+    calories CDATA #REQUIRED 
+    alcohol CDATA #IMPLIED>

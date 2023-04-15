@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lớp T1.202210.E1-->
+
+<!--Document type defination -->
+
+<!--root element-->
+<T1.200210.E1 xmlns:fpt="http://www.aptechworldwide.com"
+xmlns:bk="http://www.aptechworldwide2.com">
+    <fpt:hocvien>
+        <name>A</name>
+        <age>20</age>
+    </fpt:hocvien>
+    <bk:hocvien>
+        <name>B</name>
+        <age>30</age>
+    </bk:hocvien>
+    <hocvien>s
+        <name>B</name>
+        <age>25</age>
+    </hocvien>
+</T1.200210.E1>

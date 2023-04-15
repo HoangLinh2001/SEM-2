@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<BANG_TY_GIA Ngay="14/6/2020">
+    <NGOAI_TE Ten="đô la Úc" Ky_hieu="AUSD"
+    Mua_tien_mat="16120" Mua_chuyen_khoan="16125" Ban="16250" />
+    <NGOAI_TE Ten="đô la Mỹ" Ky_hieu="USD"
+    Mua_tien_mat="23105" Mua_chuyen_khoan="23200" Ban="23300" />
+    <NGOAI_TE Ten="Bảng Anh" Ky_hieu="GBP"
+    Mua_tien_mat="31604" Mua_chuyen_khoan="31699" Ban="31910" />
+    <NGOAI_TE Ten="đô la HongKong" Ky_hieu="HKD"
+    Mua_tien_mat="2030" Mua_chuyen_khoan="2054" Ban="2074" />
+</BANG_TY_GIA>
+
+

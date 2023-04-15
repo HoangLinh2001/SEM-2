@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Emty element-->
+<!-- <Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="demo.xsd" productID = "Iphon14"/> -->
+
+<!-- only element-->
+<!--<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="demo.xsd">
+    <Company>samsung</Company>
+    <Model>123</Model>
+</Product> -->
+<!--only text-->
+<!-- <Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="demo.xsd">My Product</Product> -->

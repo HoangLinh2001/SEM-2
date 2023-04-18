@@ -1,0 +1,13 @@
+Team{
+    background-color: aqua;
+}
+Manager{
+    display: block;
+}
+Player{
+    display: block;
+    color: red;
+}
+#Saka Name /* di tung cap thu muc */{ 
+    color: blue;
+}

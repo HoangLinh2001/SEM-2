@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Mobile.xsl" type ="text/xsl"?>
+<Mobiles>
+    <Mobile>
+        <Company>Nokia</Company>
+        <Model>1202</Model>
+        <Price>5</Price>
+        <Accessories>Charger</Accessories>
+    </Mobile>
+    <Mobile>
+        <Company>Apple</Company>
+        <Model>Iphone</Model>
+        <Price>50</Price>
+        <Accessories>Charger</Accessories>
+    </Mobile>
+    <Mobile>
+        <Company>SamSung</Company>
+        <Model>Galaxy</Model>
+        <Price>30</Price>
+        <Accessories>Charger</Accessories>
+    </Mobile>
+</Mobiles>
